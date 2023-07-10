@@ -1,0 +1,3 @@
+app:
+    source:  "vendor/modules/app"
+    version: "main"

@@ -1,0 +1,3 @@
+vpc:
+    source:  "vendor/modules/vpc"
+    version: "main"
